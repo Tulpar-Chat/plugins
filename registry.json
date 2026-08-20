@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "plugins": [
+    {
+      "id": "dev.bsr.profile",
+      "name": "Build Ship Repeat",
+      "description": "Community profile fields for makers: monthly recurring revenue, active project count and shipped products.",
+      "author": {
+        "name": "Build Ship Repeat",
+        "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin"
+      },
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin/releases/download/v1.0.0/plugin.zip",
+          "sha256": "f921d5b430117c4332e2b22fc02c538851265e414c2ec300bf7c44ecf01683cb",
+          "minTulparVersion": "1.0.0"
+        }
+      ]
+    }
+  ]
+}
