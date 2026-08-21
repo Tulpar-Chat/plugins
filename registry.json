@@ -18,6 +18,24 @@
           "minTulparVersion": "1.0.0"
         }
       ]
+    },
+    {
+      "id": "dev.bsr.super-thanks",
+      "name": "Süper Teşekkür",
+      "description": "A scarce, deliberate thank you for a message. Three a day, and the total shows on the receiver's profile.",
+      "author": {
+        "name": "Build Ship Repeat",
+        "url": "https://github.com/aligundogdu/tulpar-super-thanks-plugin"
+      },
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "url": "https://github.com/aligundogdu/tulpar-super-thanks-plugin/releases/download/v1.0.0/plugin.zip",
+          "sha256": "f0fb6ef63b782dc2f5b42d938d893c7e59e8227447d922c8576c6aa0ad3412a5",
+          "minTulparVersion": "1.0.0"
+        }
+      ]
     }
   ]
 }
