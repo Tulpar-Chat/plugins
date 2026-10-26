@@ -36,6 +36,25 @@
           "minTulparVersion": "1.0.0"
         }
       ]
+    },
+    {
+      "id": "com.tulpar.google-meet",
+      "name": "Google Meet",
+      "description": "One click in the message box creates a Google Meet link as you. Uses a Google Workspace service account with domain-wide delegation, so nobody has to sign in to Google.",
+      "author": {
+        "name": "Ali Gündoğdu",
+        "url": "https://github.com/aligundogdu/tulpar-google-meet-plugin"
+      },
+      "latest": "1.0.1",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "url": "https://github.com/aligundogdu/tulpar-google-meet-plugin/releases/download/v1.0.1/plugin.zip",
+          "sha256": "85ecad897e1cb148d56c54812faf2239880748fb265cff9698629fcaa1619d9c",
+          "minTulparVersion": "1.0.0",
+          "releasedAt": "2026-10-26"
+        }
+      ]
     }
   ]
 }
