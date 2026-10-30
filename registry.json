@@ -9,6 +9,7 @@
         "name": "Build Ship Repeat",
         "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin"
       },
+      "channel": "community",
       "latest": "1.0.0",
       "versions": [
         {
@@ -27,6 +28,7 @@
         "name": "Build Ship Repeat",
         "url": "https://github.com/aligundogdu/tulpar-super-thanks-plugin"
       },
+      "channel": "community",
       "latest": "1.0.0",
       "versions": [
         {
@@ -45,6 +47,8 @@
         "name": "Ali Gündoğdu",
         "url": "https://github.com/aligundogdu/tulpar-google-meet-plugin"
       },
+      "channel": "official",
+      "license": "MIT",
       "latest": "1.0.1",
       "versions": [
         {
