@@ -4,14 +4,21 @@
     {
       "id": "dev.bsr.profile",
       "name": "Build Ship Repeat",
-      "description": "Community profile fields for makers: monthly recurring revenue, active project count and shipped products.",
+      "description": "Community profile fields for makers (monthly recurring revenue, active projects, shipped products) and referral invites: members ask, admins approve, the newcomer joins with a single-use link.",
       "author": {
         "name": "Build Ship Repeat",
         "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin"
       },
       "channel": "community",
-      "latest": "1.0.0",
+      "latest": "1.1.0",
       "versions": [
+        {
+          "version": "1.1.0",
+          "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin/releases/download/v1.1.0/plugin.zip",
+          "sha256": "44d1bda23083596b1229f634151f089fcc9825bb014f5bb2514804de88076035",
+          "minTulparVersion": "1.0.0",
+          "releasedAt": "2026-10-30"
+        },
         {
           "version": "1.0.0",
           "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin/releases/download/v1.0.0/plugin.zip",
