@@ -10,8 +10,15 @@
         "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin"
       },
       "channel": "community",
-      "latest": "1.1.0",
+      "latest": "1.1.1",
       "versions": [
+        {
+          "version": "1.1.1",
+          "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin/releases/download/v1.1.1/plugin.zip",
+          "sha256": "b646e8b2ccf43b8ab552f208239688ab13f5b2a8f361c736d09bdd1bc1e0bee4",
+          "minTulparVersion": "1.0.0",
+          "releasedAt": "2026-10-30"
+        },
         {
           "version": "1.1.0",
           "url": "https://github.com/aligundogdu/tulpar-profile-bsr-plugin/releases/download/v1.1.0/plugin.zip",
