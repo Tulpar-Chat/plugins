@@ -17,6 +17,8 @@ Tulpar sunucuları bu dosyayı ham (raw) adresinden çeker ve bir saat
   "name": "Örnek Eklenti",
   "description": "Bir cümlelik açıklama",
   "author": { "name": "Adınız", "url": "https://..." },
+  "channel": "community",
+  "license": "MIT",
   "latest": "1.0.0",
   "versions": [
     {
@@ -28,6 +30,26 @@ Tulpar sunucuları bu dosyayı ham (raw) adresinden çeker ve bir saat
   ]
 }
 ```
+
+## Kanallar
+
+Bütün eklentiler bu tek kayıtta durur; `channel` hangisinin kime görüneceğini
+belirler.
+
+| Kanal | Anlamı | Marketplace'te |
+|---|---|---|
+| `official` | Tulpar ekibinin yaptığı ya da onayladığı eklentiler | Varsayılan listede |
+| `community` | Diğer herkes, tek bir topluluk için yazılanlar dahil | Yalnızca aramada |
+
+`channel` yoksa ya da Tulpar'ın tanımadığı bir değer taşıyorsa girdi `community`
+sayılır; yeni bir eklenti yanlışlıkla öne çıkmaz. `official` kanalına geçiş Tulpar
+ekibinin kararıdır.
+
+`license` eklentinin kendi lisansıdır (SPDX kimliği, ör. `MIT`, `Apache-2.0`).
+Tulpar çekirdeği FSL-1.1-ALv2 ile lisanslıdır; eklenti lisansı bundan bağımsızdır.
+Belirtilmezse marketplace "Lisans belirtilmemiş" gösterir.
+
+`featured: true` ileride marketplace'teki öne çıkanlar satırı için ayrılmıştır.
 
 ## Kurallar
 
